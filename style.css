@@ -1,0 +1,5 @@
+:root {
+    --page: #f3f0e9;
+}
+
+body {background: var(--page)}
